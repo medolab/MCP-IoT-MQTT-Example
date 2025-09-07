@@ -1,0 +1,6 @@
+api_key: "supersecretapikey"
+mqtt:
+  host: "mosquitto"
+  port: 1883
+  username: ""
+  password: ""
